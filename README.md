@@ -3,6 +3,7 @@
 
 I'm a game programmer/designer and [asset store publisher](https://assetstore.unity.com/publishers/29558)
 
+- Released short horror game [Mannequin](https://elvismd.itch.io/mannequin])
 - 🎮 See [my Games](https://elvismd.itch.io)
 - ⚒️ Checkout my [Assets and Tools](https://assetstore.unity.com/publishers/29558)
 - 📚 Tutorials on my [Website](https://elvismd.com)
